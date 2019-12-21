@@ -1,24 +1,24 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
+    title: `FelixPort Tech Blog`,
     siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
+    description: `A Tech Blog for Software Engineer by FelixPort Members`,
     topics: [],
     menu: [
       {
-        name: 'Home',
-        path: '/'
+        name: "Home",
+        path: "/"
       },
       {
-        name: 'Example',
-        path: '/page'
-      },
+        name: "Example",
+        path: "/page"
+      }
     ],
     footerMenu: [
       {
-        name: 'Example',
-        path: '/page'
-      },
+        name: "Example",
+        path: "/page"
+      }
     ],
     search: true,
     author: {
