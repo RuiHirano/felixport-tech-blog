@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `FelixPort Tech Blog`,
     siteUrl: `https://nehalem.netlify.com`,
-    description: `A Tech Blog for %TOPICS% by FelixPort Members`,
-    topics: [`bloggers`, `geeks`, `nerds`, `people`, `everyone`],
+    description: `A Tech Blog by FelixPort Members for %TOPICS% `,
+    topics: [`engineers`, `people`, `everyone`],
     menu: [
       {
         name: "Home",
