@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `nehem`,
+    title: `FelixPort Tech Blog`,
     siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby theme for %TOPICS%`,
+    description: `A Tech Blog for %TOPICS% by FelixPort Members`,
     topics: [`bloggers`, `geeks`, `nerds`, `people`, `everyone`],
     menu: [
       {
